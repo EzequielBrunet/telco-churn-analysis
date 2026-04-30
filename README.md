@@ -9,9 +9,9 @@ Retener a un cliente existente cuesta entre 5 y 7 veces menos que adquirir uno n
 ## 💡 Hallazgos Clave
 Tras la limpieza de datos y el análisis exploratorio (EDA), descubrí que el problema no es únicamente el precio, sino la percepción de soporte y el tipo de compromiso:
 
-* **El contrato manda:** El **43%** de los clientes con contrato mensual abandona el servicio, frente a un churn casi nulo en contratos anuales.
-* **La zona de peligro:** La mayor fuga se concentra en los primeros **12 meses** de vida del cliente.
-* **El factor crítico (Tech Support):** En usuarios de Fibra Óptica, no tener soporte técnico eleva el abandono al **50%**. Tenerlo lo reduce drásticamente al 23%.
+* **El impacto en el tipo de contrato:** El **43%** de los clientes con contrato mensual abandona el servicio, frente a un churn casi nulo en contratos anuales.
+* **El primer año es clave:** La mayor fuga se concentra en los primeros **12 meses** de vida del cliente.
+* **El problema oculto (Tech Support):** En usuarios de Fibra Óptica, no tener soporte técnico eleva el abandono al **50%**. Tenerlo lo reduce drásticamente al 23%.
 
 ## 🚀 Impacto y Recomendación Accionable
 Los datos muestran que la combinación de **Fibra Óptica + Contrato Mensual + Sin Soporte Técnico** es el perfil de mayor riesgo. 
